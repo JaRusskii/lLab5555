@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="name">Аренда транспорта</string>
+    <string name="clock">Количество часов</string>
+    <string name="clockValue">2000 руб/час</string>
+    <string name="discount">Скидка</string>
+    <string name="res_button">Расчет</string>
+    <string name="message">Нужно ввести только цифры</string>
+    <string name="message2">Поле пустое</string>
+</resources>
